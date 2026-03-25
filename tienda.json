@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Monitor G-Sync",
+        "precio": 450,
+        "con_stock": true
+    },
+    {
+        "nombre": "Silla Gamer",
+        "precio": 200,
+        "con_stock": true
+    },
+    {
+        "nombre": "Microfono",
+        "precio": 80,
+        "con_stock": false
+    }
+]
